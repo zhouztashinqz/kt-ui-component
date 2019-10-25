@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- standard color -->
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="trans_half">#80000000</color>
+
+    <!-- can cover -->
+    <color name="primary">#31bcde</color>
+    <color name="primary_deep">#039dc2</color>
+
+    <!-- component color  -->
+    <color name="comp_divider">#e0e0e0</color>
+
+    <color name="comp_text">#757f9a</color>
+    <color name="comp_text_dark">#363d50</color>
+    <color name="comp_text_light">#a0adc0</color>
+    <color name="delete">#ff486c</color>
+
+</resources>

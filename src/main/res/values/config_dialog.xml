@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><!--对话框统一配置,包括颜色、字体等 -->
+<resources>
+    <string name="talk_default_rect_text">知道了</string>
+    <string name="talk_default_yes_text">确定</string>
+    <string name="talk_default_no_text">取消</string>
+    <string name="talk_default_title">对话框标题</string>
+</resources>
